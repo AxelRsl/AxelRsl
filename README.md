@@ -1,137 +1,51 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Axel;I'm+20+years+old;I'm+from+México;I+Study+Computer+Systems+Engineering+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Axel+Cabrera+😼)](https://git.io/typing-svg)
-
-🙋‍♂️ Thank you for visiting my GitHub profile! 
-
-💻 Computer Systems Engineering Student
-
-<hr>
-
-## 🚀💻 Technologies & Tools
-
-### <u> Languages: </u>
-
-<br>
-
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/>
-</span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
-</span>
-&nbsp;
-<br>
-
-### <u> Frontend Development Technologies and Tools: </u>
-
-<br>
-
-<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI logo" title="Material UI" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-
-### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
-
-<br>
-
-<span><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails logo" title="Ruby On Rails" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="25"/></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" height="25"/></span>
-&nbsp;
-<span>
-<span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25"/>
-</span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
-&nbsp;
-
-### <u> Mobile App Development Technologies & Tools: </u>
-
-<br>
-
-<span>
-<img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25"/>
-</span>
-&nbsp;
+🙋‍♀️ **Welcome to my Github Profile!**
+- 👩‍💻  I am a student of Computer Systems Engineering. I am currently taking a Data Analysis course
+- 📚 My favorite hobbies are reading books, watching anime, and playing video games.
+- 🧠 Studying the Python programming language.
+- 💻 Some projects i have completed include a digital clock, calculator, and a responsive website using: CSS, HTML, JavaScript
 
 
-### <u> Version Control and Tools:</u>
+##
 
-<br>
+ <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AxelRsl&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=1E90FF&text_color=87CEEB&bg_color=0d1117" alt="Axel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelRsl&layout=compact&hide_border=true&title_color=00BFFF&text_color=1E90FF&bg_color=0d1117" />
 
-<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="Git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
-&nbsp;
-
-### <u> Operating Systems and Others:</u>
-
-<br>
-
-<span>
-<img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"  title="Linux" height="25"/>
-</span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Logo"  title="Ubuntu" height="25"/>
-</span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/>
-</span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim logo" title="Vim" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim logo" title="Neovim" height="25" /></span>
-
-<br>
-<br>
-
-<i> Recently, I'm also learning: </i>
-
-<span><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL logo" title="GraphQL" height="25" /></span>
-&nbsp;
-
-<br>
-
-<hr>
-
-
-## Contact me
-
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/axel-cabrera-a084b2291/" target="_blank"  rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
-  </a>
-  <a href="mailto:axel041219@gmail.com" target="top" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
-  </a>
 </div>
 
-<br>
+  <div align="center">
+  <div style="display: inline_block"><br>
+   <img align="center" alt="Becca-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Becca-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Becca-Vcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Becca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Becca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Becca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Becca-python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Becca-mysql" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+  <img align="center" alt="Becca-mysql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+ ##
+  <div align="center">
+    <img src="https://github.com/AxelRsl/AxelRsl/blob/main/profile_img.gif" alt="Profile Image" width="900"/>
+  </div>
+ 
+  
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AxelRsl&bg_color=0d1117&color=87CEEB&line=00BFFF&point=1E90FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+  
+
+  </div>
+
+ ##
+
+
+</div>
+  
+  
+ 
